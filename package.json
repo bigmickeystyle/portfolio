@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigmickeystyle/portfolio.git"
+  },
+  "author": "mike smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigmickeystyle/portfolio/issues"
+  },
+  "homepage": "https://github.com/bigmickeystyle/portfolio#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
